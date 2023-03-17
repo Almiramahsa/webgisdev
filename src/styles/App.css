@@ -7,3 +7,8 @@
 body {
   font-family: 'Poppins', sans-serif;
 }
+
+#mapid {
+  height: 100vh;
+  weight: 100vw;
+}
